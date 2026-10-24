@@ -167,6 +167,7 @@ These applications natively support MCP as a client, letting you connect MCP ser
 
 ## Testing and Debugging
 
+- [MCP Canary](https://github.com/xakpc-dev-labs/canary) - CLI and hosted service that calls a tool on remote MCP servers on a schedule, asserts on the result, and alerts on failure. ![GitHub Repo stars](https://img.shields.io/github/stars/xakpc-dev-labs/canary?style=flat)
 - [MCP Inspector](https://github.com/modelcontextprotocol/inspector) - Official visual testing tool for MCP servers. Debug connections, test tools, and validate server responses interactively. ![GitHub Repo stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?style=flat)
 - [MCP Feedback Enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) - Enhanced MCP server for interactive user feedback and command execution, with dual interface support (Web UI and Desktop Application). ![GitHub Repo stars](https://img.shields.io/github/stars/Minidoracat/mcp-feedback-enhanced?style=flat)
 
